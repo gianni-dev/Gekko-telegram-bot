@@ -63,3 +63,6 @@ _Quindi puoi trovare il tuo Telegram Bot su_ [_http://t.me/tuoBotUsername_](http
 **Al momento un Telegram Bot può essere collegato solo a un Gekko** , il che significa che se apri due Gekko, devi associare due diversi Telegram Bot. 
 
 PER INVIARE IN LIVE A Più PERSONE LE NOTIFICHE SUI SEGNALI DI BUY O SELL SI Può CREARE UN GRUPPO TELEGRAM ED INSERIRE IL BOT CREATO PRECENDETEMENTE NEL GRUPPO.
+
+
+*This is a complete version of this guide (credit: [https://click-earn-btc.blogspot.com/2018/02/gekko-command-line-cli-telegram-bot.html](https://click-earn-btc.blogspot.com/2018/02/gekko-command-line-cli-telegram-bot.html))*
