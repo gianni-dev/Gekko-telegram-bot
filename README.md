@@ -15,7 +15,7 @@ INIZIO GUIDA:
 
 ![enter image description here](https://3.bp.blogspot.com/-oB8dPwDbibg/Wnr1mBcLVEI/AAAAAAAACLQ/uNBdy0Dt-jEfglMJ6efpVAypJj2rVHzGwCLcBGAs/s1600/2018-02-07_204810.jpg)
 
-_Per prima cosa devi accedere al tuo account Telegram, quindi_ **_utilizzare /_** [_newbot_](https://telegram.me/BotFather) **_con BotFather per richiedere un nuovo robot,_** _quindi ti chiederà il nome e l'account del robot. Dopo aver risposto a tutte le domande, verrà generato un token Bot. 
+_Per prima cosa devi accedere al tuo account Telegram, quindi_ **_utilizzare /_** [_newbot_](https://telegram.me/BotFather) **_con BotFather per richiedere un nuovo BOT,_** _quindi ti chiederà il nome e l'account del BOT. Dopo aver risposto a tutte le domande, verrà generato un token Bot. 
 Riempilo in config.js. (SI RIFERISCE AL FILE “sample-config.js” da RINOMINARE IN “config.js” NELLA DIRECTORY PRINCIPALE DI GEKKO)_
 
 
