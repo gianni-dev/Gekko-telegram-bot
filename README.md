@@ -8,8 +8,9 @@
 
 **Interfaccia a riga di comando (CLI) di Gekko Come utilizzare il bot di Telegram per interrogare prezzi e guadagni**
 
-L'interfaccia a riga di comando del robot di trading Gekko è molto adatta per l'esecuzione di grandi strategie di calcolo o backtest con una grande quantità di dati, che consuma risorse basse ed è veloce. Non ho mai usato Crash prima e non ho mai avuto un processo figlio. L'errore è morto, **ma lo svantaggio della CLI è che non è in grado di generare grafici di trading, ed è più difficile da monitorare in tempo reale, quindi puoi usare i plugin di Gekko per compensare questo.** Il bot di Telegram può interrogare direttamente il prezzo corrente e le entrate di negoziazione del robot creato da Telegram. 
+L'interfaccia a riga di comando di Gekko è  adatta per l'esecuzione di strategie di trading o backtest aventi una grande quantità di dati: consuma basse risorse  ed è veloce. **l'unico svantaggio della CLI è che non è in grado di generare grafici di trading, ed è più difficile da monitorare in tempo reale, quindi puoi usare i plugin di Gekko per compensare questo.** Il bot di Telegram può interrogare direttamente il prezzo corrente e le entrate di negoziazione del robot creato da Telegram. 
 
+INIZIO GUIDA:
 
 ![enter image description here](https://3.bp.blogspot.com/-oB8dPwDbibg/Wnr1mBcLVEI/AAAAAAAACLQ/uNBdy0Dt-jEfglMJ6efpVAypJj2rVHzGwCLcBGAs/s1600/2018-02-07_204810.jpg)
 
@@ -60,7 +61,7 @@ _Quindi puoi trovare il tuo Telegram Bot su_ [_http://t.me/tuoBotUsername_](http
 
   
   
-**Al momento un Telegram Bot può essere collegato solo a un Gekko** , il che significa che se apri due Gekko, devi associare due diversi Telegram Bot. 
+**Al momento 1 Telegram Bot può essere collegato solo a 1 Gekko** , il che significa che se apri due Gekko, devi associare due diversi Telegram Bot. 
 
 PER INVIARE IN LIVE A Più PERSONE LE NOTIFICHE SUI SEGNALI DI BUY O SELL SI Può CREARE UN GRUPPO TELEGRAM ED INSERIRE IL BOT CREATO PRECENDETEMENTE NEL GRUPPO.
 
