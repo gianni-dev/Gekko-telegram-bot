@@ -8,7 +8,8 @@
 
 **Interfaccia a riga di comando (CLI) di Gekko Come utilizzare il bot di Telegram per interrogare prezzi e guadagni**
 
-L'interfaccia a riga di comando di Gekko è  adatta per l'esecuzione di strategie di trading o backtest aventi una grande quantità di dati: consuma basse risorse  ed è veloce. **l'unico svantaggio della CLI è che non è in grado di generare grafici di trading, ed è più difficile da monitorare in tempo reale, quindi puoi usare i plugin di Gekko per compensare questo.** Il bot di Telegram può interrogare direttamente il prezzo corrente e le entrate di negoziazione del robot creato da Telegram. 
+L'interfaccia a riga di comando di Gekko è  adatta per l'esecuzione di strategie di trading o backtest aventi una grande quantità di dati: consuma basse risorse  ed è veloce. **l'unico svantaggio della CLI è che non è in grado di generare grafici di trading, ed è più difficile da monitorare in tempo reale, quindi puoi usare i plugin di Gekko per compensare questo.** 
+Il bot di Telegram può interrogare direttamente il prezzo corrente e le operazioni di trading effettuate da Gekko.
 
 INIZIO GUIDA:
 
